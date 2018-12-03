@@ -2,6 +2,7 @@
 
 body{
 	color:#535353;
+	font-family: Verdana, sans-serif;
 }
 
 #container{
@@ -14,6 +15,14 @@ body{
 	background:url(../i/images/title.gif);
 	width:333px;
 	height:59px;
+}
+
+#container header h1 {
+  color: #0714C3;
+  margin-top: 0;
+  font-weight: bold;
+  font-size: 36px;
+  margin-bottom: 8px;
 }
 
 #banner h1{

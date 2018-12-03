@@ -22,3 +22,13 @@ address{
 	width:770px;
 }
 
+/* features */
+
+.feature h1 {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.feature .desc {
+  width: 600px;
+}
