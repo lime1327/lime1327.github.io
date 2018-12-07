@@ -89,12 +89,12 @@ header img {
 
 .feature:nth-of-type(odd) .desc {
   float: right;
-  padding-left: 40px;
+  padding-left: 60px;
 }
 
 .feature:nth-of-type(even) .desc {
   float: left;
-  padding-right: 40px;
+  padding-right: 60px;
 }
 
 .feature:not(:last-child) {
